@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Vehicular Ad Hoc Networks
 - 🌱 I’m currently learning Android Development
 
-### I know
+### I know 🤓 
 - C/C++
 - Java
 - Kotlin
