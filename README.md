@@ -1,8 +1,8 @@
 ### Hi there 👋 Call me Param
 
-I am currently a Computer Science student at Brock University
-🔭 I’m currently working on Vehicular Ad Hoc Networks
-🌱 I’m currently learning Android Development
+I am currently a Computer Science student at Brock University. <br>
+🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
+🌱 I’m currently learning Android Development. <br>
 
 ### I know 🤓 
 - C/C++
