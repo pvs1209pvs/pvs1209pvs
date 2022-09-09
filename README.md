@@ -8,5 +8,6 @@
 - C/C++
 - Java
 - Kotlin
+- Python
 - Linux
 - Android Development
