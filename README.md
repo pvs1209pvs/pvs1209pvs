@@ -4,6 +4,11 @@
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
 🌱 I’m currently learning Android Development. <br>
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
 
 | <img width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> | <img width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> |
 
