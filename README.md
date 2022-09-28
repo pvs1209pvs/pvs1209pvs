@@ -3,8 +3,8 @@
 👨‍🎓 I'm currently a Computer Science student at Brock University. <br>
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
 🌱 I’m currently learning Android Development. <br>
-
-![Kitten](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg){: width=40 height=40 style="float:left; padding:16px"} 
+<!-- 
+![Kitten](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg){: width=40 height=40 style="float:left; padding:16px"}  -->
 
 <img align="left" width="40px" style="padding-bottom:100px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />          
 
