@@ -1,4 +1,4 @@
-### Hello 👋 call me Param
+# 🤓️ Paramvir Singh
 
 👨‍🎓 I'm currently a Computer Science student at Brock University. <br>
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
