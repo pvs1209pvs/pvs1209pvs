@@ -4,21 +4,7 @@
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
 🌱 I’m currently learning Android Development. <br>
 
-<table>
 
-	<tr>
-		<td><img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-		<td><img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-		<td><img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-	</tr>
-	
-	<tr>
-		<td><img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-		<td><img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-		<td><img align="left" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/></td>
-	</tr>
-	
-</table>
          
 
 
@@ -30,6 +16,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" width="40px" style="padding-right:10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <img align="left" width="40px" style="padding-right:10px"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+
+<br/>
           
 <img align="left" width="40px" style="padding-right:10px"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
