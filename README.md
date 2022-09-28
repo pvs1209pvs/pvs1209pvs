@@ -1,4 +1,4 @@
-### Hi there 👋 Call me Param
+### Hello 👋 call me Param
 
 👨‍🎓 I'm currently a Computer Science student at Brock University. <br>
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
