@@ -5,7 +5,7 @@
 🌱 I’m currently learning Android Development. <br>
 
 | Syntax      | Description |
-| ----------- | ----------- |
+|             |             |
 | Header      | Title       |
 | Paragraph   | Text        |
 
