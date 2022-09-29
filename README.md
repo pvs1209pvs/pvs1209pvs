@@ -30,7 +30,7 @@
 
 <img align="left" width="30px" style="padding :10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />    
 
-<br>
+<br><br>
 
 ### Get In Touch 🤝️
 LinkedIn: https://www.linkedin.com/in/paramvir-s/
