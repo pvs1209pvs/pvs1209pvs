@@ -4,6 +4,11 @@
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
 🌱 I’m currently learning Android Development. <br>
 
+
+<br>
+
+### I Am Skilled At 🛠️
+
 <img align="left" width="30px" style="padding-right:100px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 
 <img  align="left" width="30px" style="padding :10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -30,5 +35,5 @@
 
 <br>
 
-### Get in touch 🤝️
+### Get In Touch 🤝️
 https://www.linkedin.com/in/paramvir-s/
