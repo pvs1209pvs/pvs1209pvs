@@ -2,7 +2,7 @@
 
 👨‍🎓 I'm currently a Computer Science student at Brock University. <br>
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
-🌱 I’m currently learning Android Development.
+📱 Check out my Android app at https://play.google.com/store/apps/details?id=com.pvs.spent
 
 ### I Am Skilled At 🛠️
 
