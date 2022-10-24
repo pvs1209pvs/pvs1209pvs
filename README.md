@@ -34,3 +34,4 @@
 
 ### Get In Touch 🤝️
 LinkedIn: https://www.linkedin.com/in/paramvir-s/
+E-Mail: pvs.1209@gmail.com
