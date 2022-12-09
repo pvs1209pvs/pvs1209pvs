@@ -3,6 +3,7 @@
 👨‍🎓 I'm currently a Computer Science student at Brock University. <br>
 🔭 I’m currently working on Vehicular Ad Hoc Networks. <br>
 📱 Check out my Android app at https://play.google.com/store/apps/details?id=com.pvs.spent
+📜️ Read my IEEE paper on A Study of Clustering Algorithms in VANET at https://drive.google.com/file/d/1qFQoosegOix-zjhim2njKHnF8yKeen6H/view?usp=sharing
 
 ### I Am Skilled At 🛠️
 
