@@ -1,4 +1,4 @@
-# 🤓️ Paramvir Singh
+# Paramvir Singh
 
 📱 Expense Manager Android App https://play.google.com/store/apps/details?id=com.pvs.spent <br>
 📜️ IEEE paper on A Study of Clustering Algorithms in VANET https://drive.google.com/file/d/1qFQoosegOix-zjhim2njKHnF8yKeen6H/view?usp=sharing
